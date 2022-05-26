@@ -1,15 +1,15 @@
 {
-    "name": "celestial",
-    "displayName": "Celestial",
-    "description": "VS Code theme for all the people who love to code in deep dark spaces.",
-    "version": "0.2.0",
-    "publisher": "apvarun",
+    "name": "celestial-mod",
+    "displayName": "Celestial Mod",
+    "description": "Mod of the Celestial theme by apvarun to include non-italicized version, and make gutter readable.",
+    "version": "0.4.0",
+    "publisher": "pdf",
     "repository": {
         "type": "git",
-        "url": "https://github.com/apvarun/celestial-theme"
+        "url": "https://github.com/pdf/vscode-celestial-mod-theme"
     },
     "bugs": {
-        "url": "https://github.com/apvarun/celestial-theme/issues"
+        "url": "https://github.com/pdf/vscode-celestial-mod-theme/issues"
     },
     "icon": "Celestial.png",
     "galleryBanner": {
@@ -25,9 +25,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Celestial",
+                "label": "Celestial Mod",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Celestial-color-theme.json"
+            },
+            {
+                "label": "Celestial Mod - Italic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Celestial-color-theme-italic.json"
             }
         ]
     }

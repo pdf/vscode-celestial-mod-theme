@@ -1,5 +1,5 @@
 {
-	"name": "Celestial Mod",
+	"name": "Celestial Mod - Italic",
 	"type": "dark",
 	"colors": {
 		"focusBorder": "#22252e",
@@ -196,7 +196,8 @@
 			"name": "Tag attributes",
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#F09483E6"
+				"foreground": "#F09483E6",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -237,7 +238,8 @@
 			"name": "Keywords",
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#B877DBE6"
+				"foreground": "#B877DBE6",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -321,7 +323,8 @@
 			"name": "Storage keywords",
 			"scope": "storage",
 			"settings": {
-				"foreground": "#B877DBE6"
+				"foreground": "#B877DBE6",
+				"fontStyle": "italic"
 			}
 		},
 		{

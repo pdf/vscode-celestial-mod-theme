@@ -4,7 +4,7 @@
 ----------
 
 <p align="center">
-  <img alt="Celestial Preview" src="https://github.com/apvarun/celestial-theme/raw/master/Preview.png" style="border-radius: 5px;">
+  <img alt="Celestial Preview" src="https://github.com/pdf/vscode-celestial-mod-theme/raw/master/Preview.png" style="border-radius: 5px;">
 </p>
 
 ----------
@@ -22,4 +22,4 @@ Celestial is a modified(darker) version of [Horizon](https://marketplace.visuals
 
 ## License
 
-[MIT](LICENSE)
+[MIT](https://github.com/pdf/vscode-celestial-mod-theme/blob/master/LICENSE)
