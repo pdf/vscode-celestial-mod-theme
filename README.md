@@ -1,5 +1,6 @@
 # Celestial
-## VS Code theme for all the people who love to code in deep dark spaces.
+## Mod of the Celestial theme by apvarun to include non-italicized version, and make gutter readable.
+### VS Code theme for all the people who love to code in deep dark spaces.
 
 ----------
 
